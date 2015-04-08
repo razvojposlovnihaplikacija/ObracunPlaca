@@ -1,0 +1,76 @@
+﻿@model ObracunPlaca.Models.Djelatnici
+
+@{
+    ViewBag.Title = "Create";
+}
+
+<h2>Create</h2>
+
+@using (Html.BeginForm()) {
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true)
+
+    <fieldset>
+        <legend>Djelatnici</legend>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.PrezimeDjelatnika)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.PrezimeDjelatnika)
+            @Html.ValidationMessageFor(model => model.PrezimeDjelatnika)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.ImeDjelatnika)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.ImeDjelatnika)
+            @Html.ValidationMessageFor(model => model.ImeDjelatnika)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.OpisRadnogMjesta)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.OpisRadnogMjesta)
+            @Html.ValidationMessageFor(model => model.OpisRadnogMjesta)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.DatumZaposlenja)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.DatumZaposlenja)
+            @Html.ValidationMessageFor(model => model.DatumZaposlenja)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.SifraDjelatnika)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.SifraDjelatnika)
+            @Html.ValidationMessageFor(model => model.SifraDjelatnika)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.BrutoPlacaDjelatnika)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.BrutoPlacaDjelatnika)
+            @Html.ValidationMessageFor(model => model.BrutoPlacaDjelatnika)
+        </div>
+
+        <p>
+            <input type="submit" value="Create" />
+        </p>
+    </fieldset>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

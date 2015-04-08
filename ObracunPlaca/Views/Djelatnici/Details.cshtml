@@ -1,0 +1,57 @@
+﻿@model ObracunPlaca.Models.Djelatnici
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<fieldset>
+    <legend>Djelatnici</legend>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.PrezimeDjelatnika)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.PrezimeDjelatnika)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.ImeDjelatnika)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.ImeDjelatnika)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.OpisRadnogMjesta)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.OpisRadnogMjesta)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.DatumZaposlenja)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.DatumZaposlenja)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.SifraDjelatnika)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.SifraDjelatnika)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.BrutoPlacaDjelatnika)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.BrutoPlacaDjelatnika)
+    </div>
+</fieldset>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id=Model.DjelatniciID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

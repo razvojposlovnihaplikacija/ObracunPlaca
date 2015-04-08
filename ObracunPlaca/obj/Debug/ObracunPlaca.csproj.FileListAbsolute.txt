@@ -1,0 +1,342 @@
+C:\Radni zadatak\ObracunPlaca\ObracunPlaca\ObracunPlaca\bin\ObracunPlaca.dll.config
+C:\Radni zadatak\ObracunPlaca\ObracunPlaca\ObracunPlaca\bin\ObracunPlaca.dll
+C:\Radni zadatak\ObracunPlaca\ObracunPlaca\ObracunPlaca\bin\ObracunPlaca.pdb
+C:\Radni zadatak\ObracunPlaca\ObracunPlaca\ObracunPlaca\bin\Antlr3.Runtime.dll
+C:\Radni zadatak\ObracunPlaca\ObracunPlaca\ObracunPlaca\bin\DotNetOpenAuth.AspNet.dll
+C:\Radni zadatak\ObracunPlaca\ObracunPlaca\ObracunPlaca\bin\DotNetOpenAuth.Core.dll
+C:\Radni zadatak\ObracunPlaca\ObracunPlaca\ObracunPlaca\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Radni zadatak\ObracunPlaca\ObracunPlaca\ObracunPlaca\bin\DotNetOpenAuth.OAuth.dll
+C:\Radni zadatak\ObracunPlaca\ObracunPlaca\ObracunPlaca\bin\DotNetOpenAuth.OpenId.dll
+C:\Radni zadatak\ObracunPlaca\ObracunPlaca\ObracunPlaca\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Radni zadatak\ObracunPlaca\ObracunPlaca\ObracunPlaca\bin\EntityFramework.dll
+C:\Radni zadatak\ObracunPlaca\ObracunPlaca\ObracunPlaca\bin\Microsoft.Data.Edm.dll
+C:\Radni zadatak\ObracunPlaca\ObracunPlaca\ObracunPlaca\bin\Microsoft.Data.OData.dll
+C:\Radni zadatak\ObracunPlaca\ObracunPlaca\ObracunPlaca\bin\Microsoft.Web.Infrastructure.dll
+C:\Radni zadatak\ObracunPlaca\ObracunPlaca\ObracunPlaca\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Radni zadatak\ObracunPlaca\ObracunPlaca\ObracunPlaca\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Radni zadatak\ObracunPlaca\ObracunPlaca\ObracunPlaca\bin\Newtonsoft.Json.dll
+C:\Radni zadatak\ObracunPlaca\ObracunPlaca\ObracunPlaca\bin\System.Net.Http.Formatting.dll
+C:\Radni zadatak\ObracunPlaca\ObracunPlaca\ObracunPlaca\bin\System.Spatial.dll
+C:\Radni zadatak\ObracunPlaca\ObracunPlaca\ObracunPlaca\bin\System.Web.Helpers.dll
+C:\Radni zadatak\ObracunPlaca\ObracunPlaca\ObracunPlaca\bin\System.Web.Http.dll
+C:\Radni zadatak\ObracunPlaca\ObracunPlaca\ObracunPlaca\bin\System.Web.Http.OData.dll
+C:\Radni zadatak\ObracunPlaca\ObracunPlaca\ObracunPlaca\bin\System.Web.Http.WebHost.dll
+C:\Radni zadatak\ObracunPlaca\ObracunPlaca\ObracunPlaca\bin\System.Web.Mvc.dll
+C:\Radni zadatak\ObracunPlaca\ObracunPlaca\ObracunPlaca\bin\System.Web.Optimization.dll
+C:\Radni zadatak\ObracunPlaca\ObracunPlaca\ObracunPlaca\bin\System.Web.Razor.dll
+C:\Radni zadatak\ObracunPlaca\ObracunPlaca\ObracunPlaca\bin\System.Web.WebPages.Deployment.dll
+C:\Radni zadatak\ObracunPlaca\ObracunPlaca\ObracunPlaca\bin\System.Web.WebPages.dll
+C:\Radni zadatak\ObracunPlaca\ObracunPlaca\ObracunPlaca\bin\System.Web.WebPages.Razor.dll
+C:\Radni zadatak\ObracunPlaca\ObracunPlaca\ObracunPlaca\bin\WebGrease.dll
+C:\Radni zadatak\ObracunPlaca\ObracunPlaca\ObracunPlaca\bin\WebMatrix.Data.dll
+C:\Radni zadatak\ObracunPlaca\ObracunPlaca\ObracunPlaca\bin\WebMatrix.WebData.dll
+C:\Radni zadatak\ObracunPlaca\ObracunPlaca\ObracunPlaca\bin\EntityFramework.xml
+C:\Radni zadatak\ObracunPlaca\ObracunPlaca\ObracunPlaca\bin\Newtonsoft.Json.xml
+C:\Radni zadatak\ObracunPlaca\ObracunPlaca\ObracunPlaca\bin\System.Net.Http.Formatting.xml
+C:\Radni zadatak\ObracunPlaca\ObracunPlaca\ObracunPlaca\bin\System.Web.Helpers.xml
+C:\Radni zadatak\ObracunPlaca\ObracunPlaca\ObracunPlaca\bin\System.Web.Http.xml
+C:\Radni zadatak\ObracunPlaca\ObracunPlaca\ObracunPlaca\bin\System.Web.Http.WebHost.xml
+C:\Radni zadatak\ObracunPlaca\ObracunPlaca\ObracunPlaca\bin\System.Web.Mvc.xml
+C:\Radni zadatak\ObracunPlaca\ObracunPlaca\ObracunPlaca\bin\System.Web.Razor.xml
+C:\Radni zadatak\ObracunPlaca\ObracunPlaca\ObracunPlaca\bin\System.Web.WebPages.xml
+C:\Radni zadatak\ObracunPlaca\ObracunPlaca\ObracunPlaca\bin\System.Web.WebPages.Deployment.xml
+C:\Radni zadatak\ObracunPlaca\ObracunPlaca\ObracunPlaca\bin\System.Web.WebPages.Razor.xml
+C:\Radni zadatak\ObracunPlaca\ObracunPlaca\ObracunPlaca\bin\WebMatrix.Data.xml
+C:\Radni zadatak\ObracunPlaca\ObracunPlaca\ObracunPlaca\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Radni zadatak\ObracunPlaca\ObracunPlaca\ObracunPlaca\bin\WebMatrix.WebData.xml
+C:\Radni zadatak\ObracunPlaca\ObracunPlaca\ObracunPlaca\bin\DotNetOpenAuth.AspNet.xml
+C:\Radni zadatak\ObracunPlaca\ObracunPlaca\ObracunPlaca\bin\DotNetOpenAuth.Core.xml
+C:\Radni zadatak\ObracunPlaca\ObracunPlaca\ObracunPlaca\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Radni zadatak\ObracunPlaca\ObracunPlaca\ObracunPlaca\bin\DotNetOpenAuth.OAuth.xml
+C:\Radni zadatak\ObracunPlaca\ObracunPlaca\ObracunPlaca\bin\DotNetOpenAuth.OpenId.xml
+C:\Radni zadatak\ObracunPlaca\ObracunPlaca\ObracunPlaca\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Radni zadatak\ObracunPlaca\ObracunPlaca\ObracunPlaca\bin\System.Web.Http.OData.xml
+C:\Radni zadatak\ObracunPlaca\ObracunPlaca\ObracunPlaca\bin\Microsoft.Data.Edm.xml
+C:\Radni zadatak\ObracunPlaca\ObracunPlaca\ObracunPlaca\bin\Microsoft.Data.OData.xml
+C:\Radni zadatak\ObracunPlaca\ObracunPlaca\ObracunPlaca\bin\System.Spatial.xml
+C:\Radni zadatak\ObracunPlaca\ObracunPlaca\ObracunPlaca\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Radni zadatak\ObracunPlaca\ObracunPlaca\ObracunPlaca\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Radni zadatak\ObracunPlaca\ObracunPlaca\ObracunPlaca\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Radni zadatak\ObracunPlaca\ObracunPlaca\ObracunPlaca\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Radni zadatak\ObracunPlaca\ObracunPlaca\ObracunPlaca\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Radni zadatak\ObracunPlaca\ObracunPlaca\ObracunPlaca\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Radni zadatak\ObracunPlaca\ObracunPlaca\ObracunPlaca\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Radni zadatak\ObracunPlaca\ObracunPlaca\ObracunPlaca\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Radni zadatak\ObracunPlaca\ObracunPlaca\ObracunPlaca\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Radni zadatak\ObracunPlaca\ObracunPlaca\ObracunPlaca\bin\de\Microsoft.Data.OData.resources.dll
+C:\Radni zadatak\ObracunPlaca\ObracunPlaca\ObracunPlaca\bin\es\Microsoft.Data.OData.resources.dll
+C:\Radni zadatak\ObracunPlaca\ObracunPlaca\ObracunPlaca\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Radni zadatak\ObracunPlaca\ObracunPlaca\ObracunPlaca\bin\it\Microsoft.Data.OData.resources.dll
+C:\Radni zadatak\ObracunPlaca\ObracunPlaca\ObracunPlaca\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Radni zadatak\ObracunPlaca\ObracunPlaca\ObracunPlaca\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Radni zadatak\ObracunPlaca\ObracunPlaca\ObracunPlaca\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Radni zadatak\ObracunPlaca\ObracunPlaca\ObracunPlaca\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Radni zadatak\ObracunPlaca\ObracunPlaca\ObracunPlaca\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Radni zadatak\ObracunPlaca\ObracunPlaca\ObracunPlaca\bin\de\System.Spatial.resources.dll
+C:\Radni zadatak\ObracunPlaca\ObracunPlaca\ObracunPlaca\bin\es\System.Spatial.resources.dll
+C:\Radni zadatak\ObracunPlaca\ObracunPlaca\ObracunPlaca\bin\fr\System.Spatial.resources.dll
+C:\Radni zadatak\ObracunPlaca\ObracunPlaca\ObracunPlaca\bin\it\System.Spatial.resources.dll
+C:\Radni zadatak\ObracunPlaca\ObracunPlaca\ObracunPlaca\bin\ja\System.Spatial.resources.dll
+C:\Radni zadatak\ObracunPlaca\ObracunPlaca\ObracunPlaca\bin\ko\System.Spatial.resources.dll
+C:\Radni zadatak\ObracunPlaca\ObracunPlaca\ObracunPlaca\bin\ru\System.Spatial.resources.dll
+C:\Radni zadatak\ObracunPlaca\ObracunPlaca\ObracunPlaca\bin\zh-Hans\System.Spatial.resources.dll
+C:\Radni zadatak\ObracunPlaca\ObracunPlaca\ObracunPlaca\bin\zh-Hant\System.Spatial.resources.dll
+C:\Radni zadatak\ObracunPlaca\ObracunPlaca\ObracunPlaca\obj\Debug\ObracunPlaca.csprojResolveAssemblyReference.cache
+C:\Radni zadatak\ObracunPlaca\ObracunPlaca\ObracunPlaca\obj\Debug\ObracunPlaca.dll
+C:\Radni zadatak\ObracunPlaca\ObracunPlaca\ObracunPlaca\obj\Debug\ObracunPlaca.pdb
+E:\Fakultet_sem_vjezbe\RPA\ProjektniZadaci\ObracunPlaca\ObracunPlaca\bin\ObracunPlaca.dll.config
+E:\Fakultet_sem_vjezbe\RPA\ProjektniZadaci\ObracunPlaca\ObracunPlaca\bin\ObracunPlaca.dll
+E:\Fakultet_sem_vjezbe\RPA\ProjektniZadaci\ObracunPlaca\ObracunPlaca\bin\ObracunPlaca.pdb
+E:\Fakultet_sem_vjezbe\RPA\ProjektniZadaci\ObracunPlaca\ObracunPlaca\bin\Antlr3.Runtime.dll
+E:\Fakultet_sem_vjezbe\RPA\ProjektniZadaci\ObracunPlaca\ObracunPlaca\bin\DotNetOpenAuth.AspNet.dll
+E:\Fakultet_sem_vjezbe\RPA\ProjektniZadaci\ObracunPlaca\ObracunPlaca\bin\DotNetOpenAuth.Core.dll
+E:\Fakultet_sem_vjezbe\RPA\ProjektniZadaci\ObracunPlaca\ObracunPlaca\bin\DotNetOpenAuth.OAuth.Consumer.dll
+E:\Fakultet_sem_vjezbe\RPA\ProjektniZadaci\ObracunPlaca\ObracunPlaca\bin\DotNetOpenAuth.OAuth.dll
+E:\Fakultet_sem_vjezbe\RPA\ProjektniZadaci\ObracunPlaca\ObracunPlaca\bin\DotNetOpenAuth.OpenId.dll
+E:\Fakultet_sem_vjezbe\RPA\ProjektniZadaci\ObracunPlaca\ObracunPlaca\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\Fakultet_sem_vjezbe\RPA\ProjektniZadaci\ObracunPlaca\ObracunPlaca\bin\EntityFramework.dll
+E:\Fakultet_sem_vjezbe\RPA\ProjektniZadaci\ObracunPlaca\ObracunPlaca\bin\Microsoft.Data.Edm.dll
+E:\Fakultet_sem_vjezbe\RPA\ProjektniZadaci\ObracunPlaca\ObracunPlaca\bin\Microsoft.Data.OData.dll
+E:\Fakultet_sem_vjezbe\RPA\ProjektniZadaci\ObracunPlaca\ObracunPlaca\bin\Microsoft.Web.Infrastructure.dll
+E:\Fakultet_sem_vjezbe\RPA\ProjektniZadaci\ObracunPlaca\ObracunPlaca\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\Fakultet_sem_vjezbe\RPA\ProjektniZadaci\ObracunPlaca\ObracunPlaca\bin\Microsoft.Web.WebPages.OAuth.dll
+E:\Fakultet_sem_vjezbe\RPA\ProjektniZadaci\ObracunPlaca\ObracunPlaca\bin\System.Net.Http.Formatting.dll
+E:\Fakultet_sem_vjezbe\RPA\ProjektniZadaci\ObracunPlaca\ObracunPlaca\bin\System.Spatial.dll
+E:\Fakultet_sem_vjezbe\RPA\ProjektniZadaci\ObracunPlaca\ObracunPlaca\bin\System.Web.Helpers.dll
+E:\Fakultet_sem_vjezbe\RPA\ProjektniZadaci\ObracunPlaca\ObracunPlaca\bin\System.Web.Http.dll
+E:\Fakultet_sem_vjezbe\RPA\ProjektniZadaci\ObracunPlaca\ObracunPlaca\bin\System.Web.Http.OData.dll
+E:\Fakultet_sem_vjezbe\RPA\ProjektniZadaci\ObracunPlaca\ObracunPlaca\bin\System.Web.Http.WebHost.dll
+E:\Fakultet_sem_vjezbe\RPA\ProjektniZadaci\ObracunPlaca\ObracunPlaca\bin\System.Web.Mvc.dll
+E:\Fakultet_sem_vjezbe\RPA\ProjektniZadaci\ObracunPlaca\ObracunPlaca\bin\System.Web.Optimization.dll
+E:\Fakultet_sem_vjezbe\RPA\ProjektniZadaci\ObracunPlaca\ObracunPlaca\bin\System.Web.Razor.dll
+E:\Fakultet_sem_vjezbe\RPA\ProjektniZadaci\ObracunPlaca\ObracunPlaca\bin\System.Web.WebPages.Deployment.dll
+E:\Fakultet_sem_vjezbe\RPA\ProjektniZadaci\ObracunPlaca\ObracunPlaca\bin\System.Web.WebPages.dll
+E:\Fakultet_sem_vjezbe\RPA\ProjektniZadaci\ObracunPlaca\ObracunPlaca\bin\System.Web.WebPages.Razor.dll
+E:\Fakultet_sem_vjezbe\RPA\ProjektniZadaci\ObracunPlaca\ObracunPlaca\bin\WebGrease.dll
+E:\Fakultet_sem_vjezbe\RPA\ProjektniZadaci\ObracunPlaca\ObracunPlaca\bin\WebMatrix.Data.dll
+E:\Fakultet_sem_vjezbe\RPA\ProjektniZadaci\ObracunPlaca\ObracunPlaca\bin\WebMatrix.WebData.dll
+E:\Fakultet_sem_vjezbe\RPA\ProjektniZadaci\ObracunPlaca\ObracunPlaca\bin\EntityFramework.xml
+E:\Fakultet_sem_vjezbe\RPA\ProjektniZadaci\ObracunPlaca\ObracunPlaca\bin\System.Net.Http.Formatting.xml
+E:\Fakultet_sem_vjezbe\RPA\ProjektniZadaci\ObracunPlaca\ObracunPlaca\bin\System.Web.Helpers.xml
+E:\Fakultet_sem_vjezbe\RPA\ProjektniZadaci\ObracunPlaca\ObracunPlaca\bin\System.Web.Http.xml
+E:\Fakultet_sem_vjezbe\RPA\ProjektniZadaci\ObracunPlaca\ObracunPlaca\bin\System.Web.Http.WebHost.xml
+E:\Fakultet_sem_vjezbe\RPA\ProjektniZadaci\ObracunPlaca\ObracunPlaca\bin\System.Web.Mvc.xml
+E:\Fakultet_sem_vjezbe\RPA\ProjektniZadaci\ObracunPlaca\ObracunPlaca\bin\System.Web.Razor.xml
+E:\Fakultet_sem_vjezbe\RPA\ProjektniZadaci\ObracunPlaca\ObracunPlaca\bin\System.Web.WebPages.xml
+E:\Fakultet_sem_vjezbe\RPA\ProjektniZadaci\ObracunPlaca\ObracunPlaca\bin\System.Web.WebPages.Deployment.xml
+E:\Fakultet_sem_vjezbe\RPA\ProjektniZadaci\ObracunPlaca\ObracunPlaca\bin\System.Web.WebPages.Razor.xml
+E:\Fakultet_sem_vjezbe\RPA\ProjektniZadaci\ObracunPlaca\ObracunPlaca\bin\WebMatrix.Data.xml
+E:\Fakultet_sem_vjezbe\RPA\ProjektniZadaci\ObracunPlaca\ObracunPlaca\bin\Microsoft.Web.WebPages.OAuth.xml
+E:\Fakultet_sem_vjezbe\RPA\ProjektniZadaci\ObracunPlaca\ObracunPlaca\bin\WebMatrix.WebData.xml
+E:\Fakultet_sem_vjezbe\RPA\ProjektniZadaci\ObracunPlaca\ObracunPlaca\bin\DotNetOpenAuth.AspNet.xml
+E:\Fakultet_sem_vjezbe\RPA\ProjektniZadaci\ObracunPlaca\ObracunPlaca\bin\DotNetOpenAuth.Core.xml
+E:\Fakultet_sem_vjezbe\RPA\ProjektniZadaci\ObracunPlaca\ObracunPlaca\bin\DotNetOpenAuth.OAuth.Consumer.xml
+E:\Fakultet_sem_vjezbe\RPA\ProjektniZadaci\ObracunPlaca\ObracunPlaca\bin\DotNetOpenAuth.OAuth.xml
+E:\Fakultet_sem_vjezbe\RPA\ProjektniZadaci\ObracunPlaca\ObracunPlaca\bin\DotNetOpenAuth.OpenId.xml
+E:\Fakultet_sem_vjezbe\RPA\ProjektniZadaci\ObracunPlaca\ObracunPlaca\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\Fakultet_sem_vjezbe\RPA\ProjektniZadaci\ObracunPlaca\ObracunPlaca\bin\System.Web.Http.OData.xml
+E:\Fakultet_sem_vjezbe\RPA\ProjektniZadaci\ObracunPlaca\ObracunPlaca\bin\Microsoft.Data.Edm.xml
+E:\Fakultet_sem_vjezbe\RPA\ProjektniZadaci\ObracunPlaca\ObracunPlaca\bin\Microsoft.Data.OData.xml
+E:\Fakultet_sem_vjezbe\RPA\ProjektniZadaci\ObracunPlaca\ObracunPlaca\bin\System.Spatial.xml
+E:\Fakultet_sem_vjezbe\RPA\ProjektniZadaci\ObracunPlaca\ObracunPlaca\bin\de\Microsoft.Data.Edm.resources.dll
+E:\Fakultet_sem_vjezbe\RPA\ProjektniZadaci\ObracunPlaca\ObracunPlaca\bin\es\Microsoft.Data.Edm.resources.dll
+E:\Fakultet_sem_vjezbe\RPA\ProjektniZadaci\ObracunPlaca\ObracunPlaca\bin\fr\Microsoft.Data.Edm.resources.dll
+E:\Fakultet_sem_vjezbe\RPA\ProjektniZadaci\ObracunPlaca\ObracunPlaca\bin\it\Microsoft.Data.Edm.resources.dll
+E:\Fakultet_sem_vjezbe\RPA\ProjektniZadaci\ObracunPlaca\ObracunPlaca\bin\ja\Microsoft.Data.Edm.resources.dll
+E:\Fakultet_sem_vjezbe\RPA\ProjektniZadaci\ObracunPlaca\ObracunPlaca\bin\ko\Microsoft.Data.Edm.resources.dll
+E:\Fakultet_sem_vjezbe\RPA\ProjektniZadaci\ObracunPlaca\ObracunPlaca\bin\ru\Microsoft.Data.Edm.resources.dll
+E:\Fakultet_sem_vjezbe\RPA\ProjektniZadaci\ObracunPlaca\ObracunPlaca\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\Fakultet_sem_vjezbe\RPA\ProjektniZadaci\ObracunPlaca\ObracunPlaca\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\Fakultet_sem_vjezbe\RPA\ProjektniZadaci\ObracunPlaca\ObracunPlaca\bin\de\Microsoft.Data.OData.resources.dll
+E:\Fakultet_sem_vjezbe\RPA\ProjektniZadaci\ObracunPlaca\ObracunPlaca\bin\es\Microsoft.Data.OData.resources.dll
+E:\Fakultet_sem_vjezbe\RPA\ProjektniZadaci\ObracunPlaca\ObracunPlaca\bin\fr\Microsoft.Data.OData.resources.dll
+E:\Fakultet_sem_vjezbe\RPA\ProjektniZadaci\ObracunPlaca\ObracunPlaca\bin\it\Microsoft.Data.OData.resources.dll
+E:\Fakultet_sem_vjezbe\RPA\ProjektniZadaci\ObracunPlaca\ObracunPlaca\bin\ja\Microsoft.Data.OData.resources.dll
+E:\Fakultet_sem_vjezbe\RPA\ProjektniZadaci\ObracunPlaca\ObracunPlaca\bin\ko\Microsoft.Data.OData.resources.dll
+E:\Fakultet_sem_vjezbe\RPA\ProjektniZadaci\ObracunPlaca\ObracunPlaca\bin\ru\Microsoft.Data.OData.resources.dll
+E:\Fakultet_sem_vjezbe\RPA\ProjektniZadaci\ObracunPlaca\ObracunPlaca\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\Fakultet_sem_vjezbe\RPA\ProjektniZadaci\ObracunPlaca\ObracunPlaca\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\Fakultet_sem_vjezbe\RPA\ProjektniZadaci\ObracunPlaca\ObracunPlaca\bin\de\System.Spatial.resources.dll
+E:\Fakultet_sem_vjezbe\RPA\ProjektniZadaci\ObracunPlaca\ObracunPlaca\bin\es\System.Spatial.resources.dll
+E:\Fakultet_sem_vjezbe\RPA\ProjektniZadaci\ObracunPlaca\ObracunPlaca\bin\fr\System.Spatial.resources.dll
+E:\Fakultet_sem_vjezbe\RPA\ProjektniZadaci\ObracunPlaca\ObracunPlaca\bin\it\System.Spatial.resources.dll
+E:\Fakultet_sem_vjezbe\RPA\ProjektniZadaci\ObracunPlaca\ObracunPlaca\bin\ja\System.Spatial.resources.dll
+E:\Fakultet_sem_vjezbe\RPA\ProjektniZadaci\ObracunPlaca\ObracunPlaca\bin\ko\System.Spatial.resources.dll
+E:\Fakultet_sem_vjezbe\RPA\ProjektniZadaci\ObracunPlaca\ObracunPlaca\bin\ru\System.Spatial.resources.dll
+E:\Fakultet_sem_vjezbe\RPA\ProjektniZadaci\ObracunPlaca\ObracunPlaca\bin\zh-Hans\System.Spatial.resources.dll
+E:\Fakultet_sem_vjezbe\RPA\ProjektniZadaci\ObracunPlaca\ObracunPlaca\bin\zh-Hant\System.Spatial.resources.dll
+E:\Fakultet_sem_vjezbe\RPA\ProjektniZadaci\ObracunPlaca\ObracunPlaca\obj\Debug\ObracunPlaca.csprojResolveAssemblyReference.cache
+E:\Fakultet_sem_vjezbe\RPA\ProjektniZadaci\ObracunPlaca\ObracunPlaca\obj\Debug\ObracunPlaca.dll
+E:\Fakultet_sem_vjezbe\RPA\ProjektniZadaci\ObracunPlaca\ObracunPlaca\obj\Debug\ObracunPlaca.pdb
+C:\Users\Antun\Desktop\ObracunPlaca\ObracunPlaca\bin\ObracunPlaca.dll.config
+C:\Users\Antun\Desktop\ObracunPlaca\ObracunPlaca\bin\ObracunPlaca.dll
+C:\Users\Antun\Desktop\ObracunPlaca\ObracunPlaca\bin\ObracunPlaca.pdb
+C:\Users\Antun\Desktop\ObracunPlaca\ObracunPlaca\bin\Antlr3.Runtime.dll
+C:\Users\Antun\Desktop\ObracunPlaca\ObracunPlaca\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Antun\Desktop\ObracunPlaca\ObracunPlaca\bin\DotNetOpenAuth.Core.dll
+C:\Users\Antun\Desktop\ObracunPlaca\ObracunPlaca\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Antun\Desktop\ObracunPlaca\ObracunPlaca\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Antun\Desktop\ObracunPlaca\ObracunPlaca\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Antun\Desktop\ObracunPlaca\ObracunPlaca\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Antun\Desktop\ObracunPlaca\ObracunPlaca\bin\EntityFramework.dll
+C:\Users\Antun\Desktop\ObracunPlaca\ObracunPlaca\bin\Microsoft.Data.Edm.dll
+C:\Users\Antun\Desktop\ObracunPlaca\ObracunPlaca\bin\Microsoft.Data.OData.dll
+C:\Users\Antun\Desktop\ObracunPlaca\ObracunPlaca\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Antun\Desktop\ObracunPlaca\ObracunPlaca\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Antun\Desktop\ObracunPlaca\ObracunPlaca\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Antun\Desktop\ObracunPlaca\ObracunPlaca\bin\Newtonsoft.Json.dll
+C:\Users\Antun\Desktop\ObracunPlaca\ObracunPlaca\bin\System.Net.Http.Formatting.dll
+C:\Users\Antun\Desktop\ObracunPlaca\ObracunPlaca\bin\System.Spatial.dll
+C:\Users\Antun\Desktop\ObracunPlaca\ObracunPlaca\bin\System.Web.Helpers.dll
+C:\Users\Antun\Desktop\ObracunPlaca\ObracunPlaca\bin\System.Web.Http.dll
+C:\Users\Antun\Desktop\ObracunPlaca\ObracunPlaca\bin\System.Web.Http.OData.dll
+C:\Users\Antun\Desktop\ObracunPlaca\ObracunPlaca\bin\System.Web.Http.WebHost.dll
+C:\Users\Antun\Desktop\ObracunPlaca\ObracunPlaca\bin\System.Web.Mvc.dll
+C:\Users\Antun\Desktop\ObracunPlaca\ObracunPlaca\bin\System.Web.Optimization.dll
+C:\Users\Antun\Desktop\ObracunPlaca\ObracunPlaca\bin\System.Web.Razor.dll
+C:\Users\Antun\Desktop\ObracunPlaca\ObracunPlaca\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Antun\Desktop\ObracunPlaca\ObracunPlaca\bin\System.Web.WebPages.dll
+C:\Users\Antun\Desktop\ObracunPlaca\ObracunPlaca\bin\System.Web.WebPages.Razor.dll
+C:\Users\Antun\Desktop\ObracunPlaca\ObracunPlaca\bin\WebGrease.dll
+C:\Users\Antun\Desktop\ObracunPlaca\ObracunPlaca\bin\WebMatrix.Data.dll
+C:\Users\Antun\Desktop\ObracunPlaca\ObracunPlaca\bin\WebMatrix.WebData.dll
+C:\Users\Antun\Desktop\ObracunPlaca\ObracunPlaca\bin\EntityFramework.xml
+C:\Users\Antun\Desktop\ObracunPlaca\ObracunPlaca\bin\Newtonsoft.Json.xml
+C:\Users\Antun\Desktop\ObracunPlaca\ObracunPlaca\bin\System.Net.Http.Formatting.xml
+C:\Users\Antun\Desktop\ObracunPlaca\ObracunPlaca\bin\System.Web.Helpers.xml
+C:\Users\Antun\Desktop\ObracunPlaca\ObracunPlaca\bin\System.Web.Http.xml
+C:\Users\Antun\Desktop\ObracunPlaca\ObracunPlaca\bin\System.Web.Http.WebHost.xml
+C:\Users\Antun\Desktop\ObracunPlaca\ObracunPlaca\bin\System.Web.Mvc.xml
+C:\Users\Antun\Desktop\ObracunPlaca\ObracunPlaca\bin\System.Web.Razor.xml
+C:\Users\Antun\Desktop\ObracunPlaca\ObracunPlaca\bin\System.Web.WebPages.xml
+C:\Users\Antun\Desktop\ObracunPlaca\ObracunPlaca\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Antun\Desktop\ObracunPlaca\ObracunPlaca\bin\System.Web.WebPages.Razor.xml
+C:\Users\Antun\Desktop\ObracunPlaca\ObracunPlaca\bin\WebMatrix.Data.xml
+C:\Users\Antun\Desktop\ObracunPlaca\ObracunPlaca\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Antun\Desktop\ObracunPlaca\ObracunPlaca\bin\WebMatrix.WebData.xml
+C:\Users\Antun\Desktop\ObracunPlaca\ObracunPlaca\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Antun\Desktop\ObracunPlaca\ObracunPlaca\bin\DotNetOpenAuth.Core.xml
+C:\Users\Antun\Desktop\ObracunPlaca\ObracunPlaca\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Antun\Desktop\ObracunPlaca\ObracunPlaca\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Antun\Desktop\ObracunPlaca\ObracunPlaca\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Antun\Desktop\ObracunPlaca\ObracunPlaca\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Antun\Desktop\ObracunPlaca\ObracunPlaca\bin\System.Web.Http.OData.xml
+C:\Users\Antun\Desktop\ObracunPlaca\ObracunPlaca\bin\Microsoft.Data.Edm.xml
+C:\Users\Antun\Desktop\ObracunPlaca\ObracunPlaca\bin\Microsoft.Data.OData.xml
+C:\Users\Antun\Desktop\ObracunPlaca\ObracunPlaca\bin\System.Spatial.xml
+C:\Users\Antun\Desktop\ObracunPlaca\ObracunPlaca\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Antun\Desktop\ObracunPlaca\ObracunPlaca\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Antun\Desktop\ObracunPlaca\ObracunPlaca\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Antun\Desktop\ObracunPlaca\ObracunPlaca\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Antun\Desktop\ObracunPlaca\ObracunPlaca\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Antun\Desktop\ObracunPlaca\ObracunPlaca\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Antun\Desktop\ObracunPlaca\ObracunPlaca\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Antun\Desktop\ObracunPlaca\ObracunPlaca\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Antun\Desktop\ObracunPlaca\ObracunPlaca\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Antun\Desktop\ObracunPlaca\ObracunPlaca\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Antun\Desktop\ObracunPlaca\ObracunPlaca\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Antun\Desktop\ObracunPlaca\ObracunPlaca\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Antun\Desktop\ObracunPlaca\ObracunPlaca\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Antun\Desktop\ObracunPlaca\ObracunPlaca\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Antun\Desktop\ObracunPlaca\ObracunPlaca\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Antun\Desktop\ObracunPlaca\ObracunPlaca\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Antun\Desktop\ObracunPlaca\ObracunPlaca\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Antun\Desktop\ObracunPlaca\ObracunPlaca\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Antun\Desktop\ObracunPlaca\ObracunPlaca\bin\de\System.Spatial.resources.dll
+C:\Users\Antun\Desktop\ObracunPlaca\ObracunPlaca\bin\es\System.Spatial.resources.dll
+C:\Users\Antun\Desktop\ObracunPlaca\ObracunPlaca\bin\fr\System.Spatial.resources.dll
+C:\Users\Antun\Desktop\ObracunPlaca\ObracunPlaca\bin\it\System.Spatial.resources.dll
+C:\Users\Antun\Desktop\ObracunPlaca\ObracunPlaca\bin\ja\System.Spatial.resources.dll
+C:\Users\Antun\Desktop\ObracunPlaca\ObracunPlaca\bin\ko\System.Spatial.resources.dll
+C:\Users\Antun\Desktop\ObracunPlaca\ObracunPlaca\bin\ru\System.Spatial.resources.dll
+C:\Users\Antun\Desktop\ObracunPlaca\ObracunPlaca\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Antun\Desktop\ObracunPlaca\ObracunPlaca\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Antun\Desktop\ObracunPlaca\ObracunPlaca\obj\Debug\ObracunPlaca.csprojResolveAssemblyReference.cache
+C:\Users\Antun\Desktop\ObracunPlaca\ObracunPlaca\obj\Debug\ObracunPlaca.dll
+C:\Users\Antun\Desktop\ObracunPlaca\ObracunPlaca\obj\Debug\ObracunPlaca.pdb
+E:\Fakultet_sem_vjezbe\RPA\Projekti_Za_Web\ObracunPlaca\ObracunPlaca\bin\ObracunPlaca.dll.config
+E:\Fakultet_sem_vjezbe\RPA\Projekti_Za_Web\ObracunPlaca\ObracunPlaca\bin\ObracunPlaca.dll
+E:\Fakultet_sem_vjezbe\RPA\Projekti_Za_Web\ObracunPlaca\ObracunPlaca\bin\ObracunPlaca.pdb
+E:\Fakultet_sem_vjezbe\RPA\Projekti_Za_Web\ObracunPlaca\ObracunPlaca\bin\Antlr3.Runtime.dll
+E:\Fakultet_sem_vjezbe\RPA\Projekti_Za_Web\ObracunPlaca\ObracunPlaca\bin\DotNetOpenAuth.AspNet.dll
+E:\Fakultet_sem_vjezbe\RPA\Projekti_Za_Web\ObracunPlaca\ObracunPlaca\bin\DotNetOpenAuth.Core.dll
+E:\Fakultet_sem_vjezbe\RPA\Projekti_Za_Web\ObracunPlaca\ObracunPlaca\bin\DotNetOpenAuth.OAuth.Consumer.dll
+E:\Fakultet_sem_vjezbe\RPA\Projekti_Za_Web\ObracunPlaca\ObracunPlaca\bin\DotNetOpenAuth.OAuth.dll
+E:\Fakultet_sem_vjezbe\RPA\Projekti_Za_Web\ObracunPlaca\ObracunPlaca\bin\DotNetOpenAuth.OpenId.dll
+E:\Fakultet_sem_vjezbe\RPA\Projekti_Za_Web\ObracunPlaca\ObracunPlaca\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\Fakultet_sem_vjezbe\RPA\Projekti_Za_Web\ObracunPlaca\ObracunPlaca\bin\EntityFramework.dll
+E:\Fakultet_sem_vjezbe\RPA\Projekti_Za_Web\ObracunPlaca\ObracunPlaca\bin\Microsoft.Data.Edm.dll
+E:\Fakultet_sem_vjezbe\RPA\Projekti_Za_Web\ObracunPlaca\ObracunPlaca\bin\Microsoft.Data.OData.dll
+E:\Fakultet_sem_vjezbe\RPA\Projekti_Za_Web\ObracunPlaca\ObracunPlaca\bin\Microsoft.Web.Infrastructure.dll
+E:\Fakultet_sem_vjezbe\RPA\Projekti_Za_Web\ObracunPlaca\ObracunPlaca\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\Fakultet_sem_vjezbe\RPA\Projekti_Za_Web\ObracunPlaca\ObracunPlaca\bin\Microsoft.Web.WebPages.OAuth.dll
+E:\Fakultet_sem_vjezbe\RPA\Projekti_Za_Web\ObracunPlaca\ObracunPlaca\bin\Newtonsoft.Json.dll
+E:\Fakultet_sem_vjezbe\RPA\Projekti_Za_Web\ObracunPlaca\ObracunPlaca\bin\System.Net.Http.Formatting.dll
+E:\Fakultet_sem_vjezbe\RPA\Projekti_Za_Web\ObracunPlaca\ObracunPlaca\bin\System.Spatial.dll
+E:\Fakultet_sem_vjezbe\RPA\Projekti_Za_Web\ObracunPlaca\ObracunPlaca\bin\System.Web.Helpers.dll
+E:\Fakultet_sem_vjezbe\RPA\Projekti_Za_Web\ObracunPlaca\ObracunPlaca\bin\System.Web.Http.dll
+E:\Fakultet_sem_vjezbe\RPA\Projekti_Za_Web\ObracunPlaca\ObracunPlaca\bin\System.Web.Http.OData.dll
+E:\Fakultet_sem_vjezbe\RPA\Projekti_Za_Web\ObracunPlaca\ObracunPlaca\bin\System.Web.Http.WebHost.dll
+E:\Fakultet_sem_vjezbe\RPA\Projekti_Za_Web\ObracunPlaca\ObracunPlaca\bin\System.Web.Mvc.dll
+E:\Fakultet_sem_vjezbe\RPA\Projekti_Za_Web\ObracunPlaca\ObracunPlaca\bin\System.Web.Optimization.dll
+E:\Fakultet_sem_vjezbe\RPA\Projekti_Za_Web\ObracunPlaca\ObracunPlaca\bin\System.Web.Razor.dll
+E:\Fakultet_sem_vjezbe\RPA\Projekti_Za_Web\ObracunPlaca\ObracunPlaca\bin\System.Web.WebPages.Deployment.dll
+E:\Fakultet_sem_vjezbe\RPA\Projekti_Za_Web\ObracunPlaca\ObracunPlaca\bin\System.Web.WebPages.dll
+E:\Fakultet_sem_vjezbe\RPA\Projekti_Za_Web\ObracunPlaca\ObracunPlaca\bin\System.Web.WebPages.Razor.dll
+E:\Fakultet_sem_vjezbe\RPA\Projekti_Za_Web\ObracunPlaca\ObracunPlaca\bin\WebGrease.dll
+E:\Fakultet_sem_vjezbe\RPA\Projekti_Za_Web\ObracunPlaca\ObracunPlaca\bin\WebMatrix.Data.dll
+E:\Fakultet_sem_vjezbe\RPA\Projekti_Za_Web\ObracunPlaca\ObracunPlaca\bin\WebMatrix.WebData.dll
+E:\Fakultet_sem_vjezbe\RPA\Projekti_Za_Web\ObracunPlaca\ObracunPlaca\bin\EntityFramework.xml
+E:\Fakultet_sem_vjezbe\RPA\Projekti_Za_Web\ObracunPlaca\ObracunPlaca\bin\Newtonsoft.Json.xml
+E:\Fakultet_sem_vjezbe\RPA\Projekti_Za_Web\ObracunPlaca\ObracunPlaca\bin\System.Net.Http.Formatting.xml
+E:\Fakultet_sem_vjezbe\RPA\Projekti_Za_Web\ObracunPlaca\ObracunPlaca\bin\System.Web.Helpers.xml
+E:\Fakultet_sem_vjezbe\RPA\Projekti_Za_Web\ObracunPlaca\ObracunPlaca\bin\System.Web.Http.xml
+E:\Fakultet_sem_vjezbe\RPA\Projekti_Za_Web\ObracunPlaca\ObracunPlaca\bin\System.Web.Http.WebHost.xml
+E:\Fakultet_sem_vjezbe\RPA\Projekti_Za_Web\ObracunPlaca\ObracunPlaca\bin\System.Web.Mvc.xml
+E:\Fakultet_sem_vjezbe\RPA\Projekti_Za_Web\ObracunPlaca\ObracunPlaca\bin\System.Web.Razor.xml
+E:\Fakultet_sem_vjezbe\RPA\Projekti_Za_Web\ObracunPlaca\ObracunPlaca\bin\System.Web.WebPages.xml
+E:\Fakultet_sem_vjezbe\RPA\Projekti_Za_Web\ObracunPlaca\ObracunPlaca\bin\System.Web.WebPages.Deployment.xml
+E:\Fakultet_sem_vjezbe\RPA\Projekti_Za_Web\ObracunPlaca\ObracunPlaca\bin\System.Web.WebPages.Razor.xml
+E:\Fakultet_sem_vjezbe\RPA\Projekti_Za_Web\ObracunPlaca\ObracunPlaca\bin\WebMatrix.Data.xml
+E:\Fakultet_sem_vjezbe\RPA\Projekti_Za_Web\ObracunPlaca\ObracunPlaca\bin\Microsoft.Web.WebPages.OAuth.xml
+E:\Fakultet_sem_vjezbe\RPA\Projekti_Za_Web\ObracunPlaca\ObracunPlaca\bin\WebMatrix.WebData.xml
+E:\Fakultet_sem_vjezbe\RPA\Projekti_Za_Web\ObracunPlaca\ObracunPlaca\bin\DotNetOpenAuth.AspNet.xml
+E:\Fakultet_sem_vjezbe\RPA\Projekti_Za_Web\ObracunPlaca\ObracunPlaca\bin\DotNetOpenAuth.Core.xml
+E:\Fakultet_sem_vjezbe\RPA\Projekti_Za_Web\ObracunPlaca\ObracunPlaca\bin\DotNetOpenAuth.OAuth.Consumer.xml
+E:\Fakultet_sem_vjezbe\RPA\Projekti_Za_Web\ObracunPlaca\ObracunPlaca\bin\DotNetOpenAuth.OAuth.xml
+E:\Fakultet_sem_vjezbe\RPA\Projekti_Za_Web\ObracunPlaca\ObracunPlaca\bin\DotNetOpenAuth.OpenId.xml
+E:\Fakultet_sem_vjezbe\RPA\Projekti_Za_Web\ObracunPlaca\ObracunPlaca\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\Fakultet_sem_vjezbe\RPA\Projekti_Za_Web\ObracunPlaca\ObracunPlaca\bin\System.Web.Http.OData.xml
+E:\Fakultet_sem_vjezbe\RPA\Projekti_Za_Web\ObracunPlaca\ObracunPlaca\bin\Microsoft.Data.Edm.xml
+E:\Fakultet_sem_vjezbe\RPA\Projekti_Za_Web\ObracunPlaca\ObracunPlaca\bin\Microsoft.Data.OData.xml
+E:\Fakultet_sem_vjezbe\RPA\Projekti_Za_Web\ObracunPlaca\ObracunPlaca\bin\System.Spatial.xml
+E:\Fakultet_sem_vjezbe\RPA\Projekti_Za_Web\ObracunPlaca\ObracunPlaca\bin\de\Microsoft.Data.Edm.resources.dll
+E:\Fakultet_sem_vjezbe\RPA\Projekti_Za_Web\ObracunPlaca\ObracunPlaca\bin\es\Microsoft.Data.Edm.resources.dll
+E:\Fakultet_sem_vjezbe\RPA\Projekti_Za_Web\ObracunPlaca\ObracunPlaca\bin\fr\Microsoft.Data.Edm.resources.dll
+E:\Fakultet_sem_vjezbe\RPA\Projekti_Za_Web\ObracunPlaca\ObracunPlaca\bin\it\Microsoft.Data.Edm.resources.dll
+E:\Fakultet_sem_vjezbe\RPA\Projekti_Za_Web\ObracunPlaca\ObracunPlaca\bin\ja\Microsoft.Data.Edm.resources.dll
+E:\Fakultet_sem_vjezbe\RPA\Projekti_Za_Web\ObracunPlaca\ObracunPlaca\bin\ko\Microsoft.Data.Edm.resources.dll
+E:\Fakultet_sem_vjezbe\RPA\Projekti_Za_Web\ObracunPlaca\ObracunPlaca\bin\ru\Microsoft.Data.Edm.resources.dll
+E:\Fakultet_sem_vjezbe\RPA\Projekti_Za_Web\ObracunPlaca\ObracunPlaca\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\Fakultet_sem_vjezbe\RPA\Projekti_Za_Web\ObracunPlaca\ObracunPlaca\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\Fakultet_sem_vjezbe\RPA\Projekti_Za_Web\ObracunPlaca\ObracunPlaca\bin\de\Microsoft.Data.OData.resources.dll
+E:\Fakultet_sem_vjezbe\RPA\Projekti_Za_Web\ObracunPlaca\ObracunPlaca\bin\es\Microsoft.Data.OData.resources.dll
+E:\Fakultet_sem_vjezbe\RPA\Projekti_Za_Web\ObracunPlaca\ObracunPlaca\bin\fr\Microsoft.Data.OData.resources.dll
+E:\Fakultet_sem_vjezbe\RPA\Projekti_Za_Web\ObracunPlaca\ObracunPlaca\bin\it\Microsoft.Data.OData.resources.dll
+E:\Fakultet_sem_vjezbe\RPA\Projekti_Za_Web\ObracunPlaca\ObracunPlaca\bin\ja\Microsoft.Data.OData.resources.dll
+E:\Fakultet_sem_vjezbe\RPA\Projekti_Za_Web\ObracunPlaca\ObracunPlaca\bin\ko\Microsoft.Data.OData.resources.dll
+E:\Fakultet_sem_vjezbe\RPA\Projekti_Za_Web\ObracunPlaca\ObracunPlaca\bin\ru\Microsoft.Data.OData.resources.dll
+E:\Fakultet_sem_vjezbe\RPA\Projekti_Za_Web\ObracunPlaca\ObracunPlaca\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\Fakultet_sem_vjezbe\RPA\Projekti_Za_Web\ObracunPlaca\ObracunPlaca\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\Fakultet_sem_vjezbe\RPA\Projekti_Za_Web\ObracunPlaca\ObracunPlaca\bin\de\System.Spatial.resources.dll
+E:\Fakultet_sem_vjezbe\RPA\Projekti_Za_Web\ObracunPlaca\ObracunPlaca\bin\es\System.Spatial.resources.dll
+E:\Fakultet_sem_vjezbe\RPA\Projekti_Za_Web\ObracunPlaca\ObracunPlaca\bin\fr\System.Spatial.resources.dll
+E:\Fakultet_sem_vjezbe\RPA\Projekti_Za_Web\ObracunPlaca\ObracunPlaca\bin\it\System.Spatial.resources.dll
+E:\Fakultet_sem_vjezbe\RPA\Projekti_Za_Web\ObracunPlaca\ObracunPlaca\bin\ja\System.Spatial.resources.dll
+E:\Fakultet_sem_vjezbe\RPA\Projekti_Za_Web\ObracunPlaca\ObracunPlaca\bin\ko\System.Spatial.resources.dll
+E:\Fakultet_sem_vjezbe\RPA\Projekti_Za_Web\ObracunPlaca\ObracunPlaca\bin\ru\System.Spatial.resources.dll
+E:\Fakultet_sem_vjezbe\RPA\Projekti_Za_Web\ObracunPlaca\ObracunPlaca\bin\zh-Hans\System.Spatial.resources.dll
+E:\Fakultet_sem_vjezbe\RPA\Projekti_Za_Web\ObracunPlaca\ObracunPlaca\bin\zh-Hant\System.Spatial.resources.dll
+E:\Fakultet_sem_vjezbe\RPA\Projekti_Za_Web\ObracunPlaca\ObracunPlaca\obj\Debug\ObracunPlaca.dll
+E:\Fakultet_sem_vjezbe\RPA\Projekti_Za_Web\ObracunPlaca\ObracunPlaca\obj\Debug\ObracunPlaca.pdb
+E:\Fakultet_sem_vjezbe\RPA\Projekti_Za_Web\ObracunPlaca\ObracunPlaca\obj\Debug\ObracunPlaca.csprojResolveAssemblyReference.cache

@@ -1,0 +1,39 @@
+﻿@model IEnumerable<ObracunPlaca.Models.ZapisPlace>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table>
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Djelatnici.PrezimeDjelatnika)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NetoPlacaDjelatnika)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Djelatnici.PrezimeDjelatnika)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.NetoPlacaDjelatnika)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.ZapisPlaceID }) |
+            @Html.ActionLink("Details", "Details", new { id=item.ZapisPlaceID }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.ZapisPlaceID })
+        </td>
+    </tr>
+}
+
+</table>

@@ -1,0 +1,71 @@
+﻿@model IEnumerable<ObracunPlaca.Models.Djelatnici>
+
+@{
+    ViewBag.Title = "Popis djelatnika";
+}
+
+<h2>Popis djelatnika</h2>
+
+<p>
+    @Html.ActionLink("Upisi djelatnika", "Create")
+    @using (Html.BeginForm("Index", "Djelatnici", FormMethod.Get))
+    {
+    <p>
+        Sifra Djelatnika: @Html.DropDownList("SearchSifra","Svi zaposlenici")
+        Title: @Html.TextBox("SearchString")
+        <input type="submit" value="Filter" />
+    </p>
+    }
+    </p>
+<table>
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.PrezimeDjelatnika)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ImeDjelatnika)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.OpisRadnogMjesta)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DatumZaposlenja)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.SifraDjelatnika)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.BrutoPlacaDjelatnika)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.PrezimeDjelatnika)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ImeDjelatnika)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.OpisRadnogMjesta)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DatumZaposlenja)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.SifraDjelatnika)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.BrutoPlacaDjelatnika)
+        </td>
+        <td>
+            @Html.ActionLink("Uredi", "Edit", new { id=item.DjelatniciID }) |
+            @Html.ActionLink("Detalji", "Details", new { id=item.DjelatniciID }) |
+            @Html.ActionLink("Obrisi", "Delete", new { id=item.DjelatniciID })
+        </td>
+    </tr>
+}
+
+</table>

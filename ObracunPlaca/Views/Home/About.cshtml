@@ -1,0 +1,27 @@
+﻿@{
+    ViewBag.Title = "O nama";
+}
+
+<hgroup class="title">
+    <h1>@ViewBag.Title.</h1>
+    <h2>@ViewBag.Message</h2>
+</hgroup>
+
+<article>
+    <p>
+       Dobrodošli na stranicu zapisa djelatnika i obračuna plaća!
+    </p>
+
+    </article>
+
+<aside>
+    <h3>Razvoj poslovnih aplikacija</h3>
+    <p>
+        Ova aplikacija je razvijena kao seminarski rad RPA
+    </p>
+    <ul>
+        <li>@Html.ActionLink("Pocetna stranica", "Index", "Home")</li>
+        <li>@Html.ActionLink("O nama", "About", "Home")</li>
+        <li>@Html.ActionLink("Kontakt", "Contact", "Home")</li>
+    </ul>
+</aside>
